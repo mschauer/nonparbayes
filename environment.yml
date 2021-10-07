@@ -1,0 +1,9 @@
+channels:
+    - conda-forge
+dependencies:
+    - jupyter-server-proxy=1.5.0=py_0
+    - sympy
+    - pip
+    - pip:
+        - git+https://github.com/illumidesk/jupyter-pluto-proxy
+        - nbgitpuller
