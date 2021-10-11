@@ -1,6 +1,6 @@
 # Nonparametric Bayes and Fourier methods in Julia
 
-Tour through non-parametric Bayesian regression in Fourier domain using Julia
+Interactive tour through non-parametric Bayesian regression in Fourier domain using Julia
 
 ## Open notebook on Binder
 
@@ -12,7 +12,7 @@ Step 1.) Start Binder.
 
 Step 2.)
 
-When Pluto starts after a long time, open the URL (https://raw.githubusercontent.com/mschauer/nonparbayes/main/notebook.jl) within the Pluto notebook.
+When Pluto starts after a long or short time, open the URL (https://raw.githubusercontent.com/mschauer/nonparbayes/main/notebook.jl) within the Pluto notebook.
 
 ## Open offline notebook
 
