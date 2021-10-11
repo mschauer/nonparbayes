@@ -1,3 +1,6 @@
+# Nonparametric Bayes and Fourier methods in Julia
+
+Tour through non-parametric Bayesian regression in Fourier domain using Julia
 
 ## Open notebook on Binder
 
