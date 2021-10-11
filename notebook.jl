@@ -301,7 +301,6 @@ PLUTO_PROJECT_TOML_CONTENTS = """
 [deps]
 FFTW = "7a1cc6ca-52ef-59f5-83cd-3a7055c09341"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
-Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
 PlutoUI = "7f904dfe-b85e-4ff6-b463-dae2292396a8"
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
@@ -1173,25 +1172,25 @@ version = "0.9.1+5"
 """
 
 # ╔═╡ Cell order:
-# ╠═ad88469d-06d5-4ec7-868f-611e999930b4
+# ╟─ad88469d-06d5-4ec7-868f-611e999930b4
 # ╠═37146eed-cabd-4024-9e91-4b8fe15139a3
-# ╠═c29066a9-574d-4ce1-ba9b-abb44aeb8fa0
+# ╟─c29066a9-574d-4ce1-ba9b-abb44aeb8fa0
 # ╠═64feb3c2-919b-4246-9fbf-e836a0c80ed0
 # ╠═c502c779-e776-490d-9ec7-02a3379aaa28
 # ╠═a4ff81fe-a9cf-4789-aa68-5838c58c1f69
 # ╠═426085d1-1f7d-4186-a8dc-28ffd8fb5343
 # ╠═0722b786-402d-4ba9-a427-8c87cbc3df24
 # ╠═873ba234-b4b1-4678-8c67-086cd3b149bc
-# ╠═fb55fde1-7669-4f91-bc67-2a0172e5ae3e
+# ╟─fb55fde1-7669-4f91-bc67-2a0172e5ae3e
 # ╠═093506f2-5a52-4217-9dfb-d673ce8b4a29
 # ╠═0071252a-42cb-4967-b426-7d28ce054ba1
-# ╠═7f5a4d79-1e64-4c99-a588-63bcca7267fe
+# ╟─7f5a4d79-1e64-4c99-a588-63bcca7267fe
 # ╠═012f54e1-01a3-4acd-b7db-d5d3f3bc7d87
 # ╠═e7c6b81f-202a-43e0-9bc0-ac5eb64060db
 # ╠═5a475143-5078-4033-84cc-ec6abd3c86c4
 # ╠═0e4ea7bf-4eb1-4923-a2e8-a7e2e8bc33a5
 # ╠═b7c5ee08-5d2d-4775-a232-472a033b59a1
-# ╠═12c188f4-5042-4cc4-9de5-89ea87c08c1e
+# ╟─12c188f4-5042-4cc4-9de5-89ea87c08c1e
 # ╠═9c48ca1f-7ab3-4b72-a9bd-4b0d6c1ee8db
 # ╠═fb008be0-b823-4eaf-b2c7-eb189041f0c8
 # ╠═23bfdb98-1001-4f49-a841-292ebe4c0246
@@ -1204,6 +1203,6 @@ version = "0.9.1+5"
 # ╠═6615b4b2-26fc-4a80-9576-810c7f919270
 # ╠═608fe8ea-227b-4a87-86fe-78eee54871b4
 # ╠═c78bd411-c9f4-4e1f-8c96-ea97480d9cd9
-# ╠═09af6b8a-73a1-4e87-8a89-ef7ac72c72b4
+# ╟─09af6b8a-73a1-4e87-8a89-ef7ac72c72b4
 # ╟─00000000-0000-0000-0000-000000000001
 # ╟─00000000-0000-0000-0000-000000000002
