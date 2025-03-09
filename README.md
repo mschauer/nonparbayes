@@ -2,13 +2,11 @@
 
 Interactive tour through non-parametric Bayesian regression in Fourier domain using Julia
 
-## Open notebook on Binder
-
 Notebook location:  [https://raw.githubusercontent.com/mschauer/nonparbayes/main/notebook.jl](https://raw.githubusercontent.com/mschauer/nonparbayes/main/notebook.jl)
 
-Button to start Binder with the notebook:
+## Open notebook on JuliaHub:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mschauer/nonparbayes/HEAD?labpath=notebook.jl)
+[https://juliahub.com/ui/Notebooks/mschauer/public/nonparametric_bayes.jl](https://juliahub.com/ui/Notebooks/mschauer/public/nonparametric_bayes.jl)
 
 ## Alternatively: Open static/offline notebook. Use the download button to run on your own computer.
 
